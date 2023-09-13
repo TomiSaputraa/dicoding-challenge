@@ -2,4 +2,4 @@
 Challenge dicoding web dasar using html and css
 
 Preview : 
-<img src="/image/ddsad.png" alt="logo" width="300px"/>
+<img src="/image/ddsad.png" alt="logo" width="100%"/>
